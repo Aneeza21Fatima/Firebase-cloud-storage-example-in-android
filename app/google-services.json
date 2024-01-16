@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65651008469",
+    "project_id": "part2-image-to-cloud",
+    "storage_bucket": "part2-image-to-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65651008469:android:93d2e3845fd04d35a5535c",
+        "android_client_info": {
+          "package_name": "com.example.part2_image_to_cloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3wxOR93j8xnb48LFDDgErTMt8L-3Pdc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
